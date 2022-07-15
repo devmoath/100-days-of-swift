@@ -1,0 +1,80 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 55;
+	objects = {
+
+/* Begin PBXFileReference section */
+		CD30ED692880C4C000C8F830 /* variables.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = variables.swift; sourceTree = "<group>"; };
+		CD30ED6A2880C4F300C8F830 /* .swiftlint.yml */ = {isa = PBXFileReference; lastKnownFileType = text.yaml; path = .swiftlint.yml; sourceTree = "<group>"; };
+		CD30ED6B2880C50F00C8F830 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		CD30ED6C2880C5E700C8F830 /* swiftlint.yml */ = {isa = PBXFileReference; lastKnownFileType = text.yaml; name = swiftlint.yml; path = .github/workflows/swiftlint.yml; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		CD0DC6892880C46E002EC8A1 = {
+			isa = PBXGroup;
+			children = (
+				CD30ED6C2880C5E700C8F830 /* swiftlint.yml */,
+				CD30ED692880C4C000C8F830 /* variables.swift */,
+				CD30ED6A2880C4F300C8F830 /* .swiftlint.yml */,
+				CD30ED6B2880C50F00C8F830 /* .gitignore */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		CD0DC68A2880C46E002EC8A1 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1340;
+			};
+			buildConfigurationList = CD0DC68D2880C46E002EC8A1 /* Build configuration list for PBXProject "100-days-of-swift" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = CD0DC6892880C46E002EC8A1;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		CD0DC68E2880C46E002EC8A1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		CD0DC68F2880C46E002EC8A1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		CD0DC68D2880C46E002EC8A1 /* Build configuration list for PBXProject "100-days-of-swift" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CD0DC68E2880C46E002EC8A1 /* Debug */,
+				CD0DC68F2880C46E002EC8A1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = CD0DC68A2880C46E002EC8A1 /* Project object */;
+}
